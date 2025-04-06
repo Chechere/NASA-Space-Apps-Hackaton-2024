@@ -7,7 +7,7 @@ Por este trabajo obtuvimos el reconocimiento de mejor idea, el cual demostro que
   <img src="https://github.com/user-attachments/assets/2d2f7360-1112-41b4-bcf8-d7757440fb6d" width="50%" alt="Imagen mostrandonos como ganadores de la idea mas innovadora, mas grande"/>
 </p>
 
-<a href="https://www.instagram.com/p/DBGbIDXsyaS/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==" target="_blank">
+<a href="https://www.instagram.com/p/DBGbIDXsyaS/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="16px" alt="Icono de Instagram"/>
 </a>
 
