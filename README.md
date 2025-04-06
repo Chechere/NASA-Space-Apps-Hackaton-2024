@@ -16,11 +16,14 @@ Mas info en:
 ## Resumen
 El proyecto consiste en un dispositivo gestionado por un ESP32 el cual, al clavarse en el suelo, puede medir diferentes propiedades del suelo y el entorno que le rodea, útil para agricultores para disponer de forma rápida y sencilla dichos datos para realizar estimaciones del estado de sus cultivos y actuar en consecuencia.
 
-A su vez, los dispositivos se conectan via bluetooth a una aplicación android donde se muestra la información comodamente para el agricultor. Esta tambien posee un historico del cambio de las diferentes mediciones y una conexión con la API de la NASA para obtener datos satelitales de la zona
+A su vez, los dispositivos se conectan via bluetooth a una aplicación android donde se muestra la información, a tiempo real, comodamente para el agricultor. Esta tambien posee un historico del cambio de las diferentes mediciones y una conexión con la API de la NASA para obtener datos satelitales de la zona
 
 <p align="center">
   <img alt="Imagen con la pantalla principal de la aplicación" src="https://github.com/user-attachments/assets/34946176-a731-4f8f-8531-e502f885f7c8"/>
 </p>
+
+## Parte Electrónica
+Para la codificación de la parte electrónica, está disponible dentro de la carpeta [Arduino](/Arduino/) el archivo usado con el programa para programar en arduinos (Tambien válido en ESP32)
 
 ## Autores
 César Tejero Manovel - @Chechere
