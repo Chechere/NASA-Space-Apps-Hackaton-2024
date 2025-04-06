@@ -30,6 +30,8 @@ César Tejero Manovel - @Chechere
 
 Diego Lopez Esteban (Autor de la parte electronica)
 
+Juan Camilo Ramirez
+
 
 
 
